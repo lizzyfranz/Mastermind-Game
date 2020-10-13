@@ -1,0 +1,13 @@
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.csprojAssemblyReference.cache
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfoInputs.cache
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.AssemblyInfo.cs
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.exe
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.deps.json
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.json
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.runtimeconfig.dev.json
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\bin\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.dll
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.pdb
+C:\Users\franzea17\Documents\GitHub\Mastermind\Mastermind\obj\Debug\netcoreapp3.1\Mastermind.genruntimeconfig.cache
